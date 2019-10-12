@@ -7,7 +7,7 @@ const getUnique = (items, value) => {
   return [...new Set(items.map(item => item[value]))];
 };
 
-export default function RoomsFilter() {
+export default function RoomsFilter({ rooms }) {
   const context = useContext(RoomContext);
   const {
     handleChange,
