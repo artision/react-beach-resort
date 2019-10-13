@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f3bad20a04022b388057691eb66ca66",
+    "revision": "4cfa04782cfe790334bc7fb4e3a8983e",
     "url": "/react-beach-resort/index.html"
   },
   {
-    "revision": "80836693d1d5138de0c1",
+    "revision": "c0848480dc089f600838",
     "url": "/react-beach-resort/static/css/main.c0e221cb.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-beach-resort/static/js/2.ec9f4ab7.chunk.js"
   },
   {
-    "revision": "80836693d1d5138de0c1",
-    "url": "/react-beach-resort/static/js/main.2bdce936.chunk.js"
+    "revision": "c0848480dc089f600838",
+    "url": "/react-beach-resort/static/js/main.818bc103.chunk.js"
   },
   {
     "revision": "9248d01d206cfbd3a919",
